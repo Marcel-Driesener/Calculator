@@ -1,4 +1,5 @@
 # Kotlin Calculator Guide
+### this Calculator is just a small project for, as I'm trying to learn Kotlin and it's function
 
 ## How It Works
 The Kotlin Calculator is a simple console-based application that allows users to perform basic arithmetic operations: addition, subtraction, multiplication, and division.
